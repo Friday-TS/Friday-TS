@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Friday-TS
-- 👀 I’m interested in ... Javascript/ Typescript project for web, mobile, and Desktop platforms.
+- 👋 Hi, I’m Friday Joshua
+- 👀 I’m interested in ... Javascript/ Typescript projects for web, mobile, and Desktop platforms.
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
